@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Felix Maratier (@fmarat75)
+- 👀 I’m interested in Data Science & AI
+- 🌱 I’m currently learning Data & ML & AI related python libraries
